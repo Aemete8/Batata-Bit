@@ -1,0 +1,41 @@
+.main-tables-container{
+    width: 90%;
+    gap: 24px;
+    justify-content: center;
+}
+
+.main-currency-table{
+    margin: 0;
+}
+
+.product-cards--container{
+    max-width: 900px;
+    display: grid;
+    place-content: center;
+    gap: 14px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.product-detail--card{
+    width: 100%;
+    min-height: 150px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.plans-container--slider{
+    justify-content: center;
+}
+
+footer{
+    justify-content: space-around;
+}
+
+.list-links--footer{
+    display: flex;
+    gap: 64px;
+}
+
+.logo-footer--container img{
+    width: 90px;
+}
